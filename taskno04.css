@@ -1,0 +1,93 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(58, 194, 92);
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    width: 100%;
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+}
+
+.card1{
+    width: 350px;
+   background-color: white;
+    margin: 60px;
+    
+   
+}
+.img-wrapper{
+    max-width: 100%; 
+}
+h3{
+    font-weight: 700;
+    text-align: center;
+}
+.para1{
+    color: rgb(20, 192, 20);
+    font-weight: 500;
+   
+    text-align: justify;
+    margin-left: 15px;
+}
+.para2{
+    color: rgb(22, 106, 231);
+    margin: 15px;
+}
+.btn{
+    background-color: rgb(22, 106, 231);
+    color: white;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+   margin-left: 15px;
+   margin-bottom: 10px;
+border: 1px solid rgb(22, 106, 231) ;
+    border-radius: 5px;
+}
+.card2{
+    width: 350px;
+    background-color: white;
+     margin: 60px;
+}
+.para3{
+    font-weight: 500;
+    color: rgb(20, 192, 20);
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.para4{
+    color: rgb(22, 106, 231);
+    margin: 15px;}
+      
+.setpara4{
+margin-top: 55px;
+margin-bottom: 55px;
+}
+
+.card3{
+    width: 350px;
+    background-color: white;
+     margin: 60px;
+}
+.para5{
+    font-weight: 500;
+    color: rgb(20, 192, 20);
+    margin-left: 15px;
+    margin-right: 10px; 
+}
+.para6{
+    color: rgb(22, 106, 231);
+    margin: 15px;
+}
+.setpara6{
+    margin-top: 40px ;
+    margin-bottom: 40px;
+}
